@@ -4,7 +4,7 @@
 - 控制指定DO的开闭
 - 其他通用的进制转换、命令发送并接收回包等功能
 
-## Overview:
+## Overview
 Communication with Zlan6808-3 is achieved through the ModbusTCP protocol, 
 using a set of instructions to control it with hexadecimal commands. 
 The following functions have been implemented:
